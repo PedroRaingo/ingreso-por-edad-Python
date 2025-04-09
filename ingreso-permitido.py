@@ -1,8 +1,5 @@
 # Paso 1: Solicitar al usuario que ingrese la edad del cliente
 
-from operator import truediv
-
-
 edad = int(input("Por favor ingrese la edad del cliente: "))
 
 # Paso 2: Verificar si la edad ingresada cumple con el requisito para ingresar a la discoteca
